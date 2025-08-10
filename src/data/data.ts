@@ -47,7 +47,7 @@ export const experiences: Experience[] = [
     company: "Cognizant, Mumbai",
     duration: "Sep 2016 - July 2020",
     role: "Experience Designer",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacus nunc, posuere in justo vulputate, bibendum sodales.",
+    desc: " dolor sit amet, consectetur adipiscing elit. Duis lacus nunc, posuere in justo vulputate, bibendum sodales.",
     dotColor: "bg-[#FD853A]",
   },
   {
