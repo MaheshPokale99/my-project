@@ -11,7 +11,7 @@
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
     "lucide-react": "^0.517.0",
-    "next": "15.3.3",
+    "next": "15.3.8",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "swiper": "^11.2.8"
